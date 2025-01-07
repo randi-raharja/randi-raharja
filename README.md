@@ -71,10 +71,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/randi-raharja/randi-raharja/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/randi-raharja/count.svg?"  />
 </div>
